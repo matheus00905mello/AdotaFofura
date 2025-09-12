@@ -8,7 +8,7 @@ body {
     background-color: #fff;
 }
 
-.corpo{
+.corpo {
     font-size: 16px;
     line-height: 1.5;
     padding: 50px;
@@ -65,7 +65,7 @@ ul li a {
     transition: 0.3s;
 }
 
-ul li a:hover{
+ul li a:hover {
     color: rgb(153, 153, 153);
 }
 
@@ -83,7 +83,7 @@ ul li a:hover{
     width: 250px;
     aspect-ratio: 1 / 1.4;
     padding: 1rem;
-    border-radius: 20px;
+    border-radius: 10px;
     background-color: #fff;
     border: 1px solid #ddd;
     display: flex;
@@ -104,7 +104,7 @@ ul li a:hover{
 .card-img-wrap {
     position: relative;
     width: 207px;
-    height:207px;
+    height: 207px;
     padding: 7px;
 }
 
